@@ -1,8 +1,6 @@
 ---
 name: Pull Request
-about: Create a report to help us improve
-OR 
-Suggest an idea for this project
+about: Create a report to help us improve OR <br> Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
